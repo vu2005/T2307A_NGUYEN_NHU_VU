@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "BattleGame.Controllers.AssetController",
+    "Method": "CreateAsset",
+    "RelativePath": "api/Asset/createasset",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "asset",
+        "Type": "BattleGame.Models.Asset",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BattleGame.Controllers.PlayerController",
+    "Method": "RegisterPlayer",
+    "RelativePath": "api/Player/registerplayer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "player",
+        "Type": "BattleGame.Models.Player",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BattleGame.Controllers.ReportController",
+    "Method": "GetAssetsByPlayer",
+    "RelativePath": "api/Report/getassetsbyplayer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

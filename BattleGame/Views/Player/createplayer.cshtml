@@ -1,0 +1,33 @@
+@model BattleGame.Models.Player
+
+@{
+    ViewData["Title"] = "Create New Player";
+}
+
+<h2>Create New Player</h2>
+
+<form method="post" action="@Url.Action("RegisterPlayer", "Player")">
+    <div class="form-group">
+        <label for="PlayerName">Player Name</label>
+        <input type="text" id="PlayerName" name="PlayerName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="FullName">Full Name</label>
+        <input type="text" id="FullName" name="FullName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" id="Email" name="Email" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="Level">Level</label>
+        <input type="number" id="Level" name="Level" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="Age">Age</label>
+        <input type="number" id="Age" name="Age" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success mt-3">Create Player</button>
+</form>
+
+<a href="@Url.Action("Index", "Player")" class="btn btn-secondary mt-3">Back to Player List</a>

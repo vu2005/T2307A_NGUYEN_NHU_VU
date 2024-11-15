@@ -1,0 +1,28 @@
+@model IEnumerable<BattleGame.Models.Asset>
+
+@{
+    ViewData["Title"] = "Asset List";
+}
+
+<h2>Asset List</h2>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Asset Name</th>
+            <th>Level Requirement</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var asset in Model)
+        {
+            <tr>
+                <td>@asset.AssetName</td>
+                <td>@asset.LevelRequire</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("CreateAsset", "Asset")" class="btn btn-success">Create New Asset</a>

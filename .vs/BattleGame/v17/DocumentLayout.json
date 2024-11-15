@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bahat\\source\\repos\\BattleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\data\\battlegamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\data\\battlegamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\huongdan.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\huongdan.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\battlegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\battlegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\views\\report\\playerassets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\views\\report\\playerassets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\models\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\models\\playerasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|c:\\users\\bahat\\source\\repos\\battlegame\\battlegame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{525748B3-0BED-471A-9A48-CFB034D3AAF3}|BattleGame\\BattleGame.csproj|solutionrelative:battlegame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "huongdan.txt",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\huongdan.txt",
+              "RelativeDocumentMoniker": "BattleGame\\huongdan.txt",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\huongdan.txt",
+              "RelativeToolTip": "BattleGame\\huongdan.txt",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-15T05:55:33.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "BattleGame\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:53:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "BattleGame\\Controllers\\AssetController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:53:28.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BattleGameContext.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Data\\BattleGameContext.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Data\\BattleGameContext.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Data\\BattleGameContext.cs",
+              "RelativeToolTip": "BattleGame\\Data\\BattleGameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:48:52.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Program.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Program.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Program.cs",
+              "RelativeToolTip": "BattleGame\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:50:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerAssets.cshtml",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Views\\Report\\PlayerAssets.cshtml",
+              "RelativeDocumentMoniker": "BattleGame\\Views\\Report\\PlayerAssets.cshtml",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Views\\Report\\PlayerAssets.cshtml",
+              "RelativeToolTip": "BattleGame\\Views\\Report\\PlayerAssets.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T05:54:19.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleGame.csproj",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\BattleGame.csproj",
+              "RelativeDocumentMoniker": "BattleGame\\BattleGame.csproj",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\BattleGame.csproj",
+              "RelativeToolTip": "BattleGame\\BattleGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T05:55:12.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "BattleGame\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:53:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerAsset.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Models\\PlayerAsset.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Models\\PlayerAsset.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Models\\PlayerAsset.cs",
+              "RelativeToolTip": "BattleGame\\Models\\PlayerAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:51:10.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Models\\Asset.cs",
+              "RelativeToolTip": "BattleGame\\Models\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:50:55.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "BattleGame\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\Models\\Player.cs",
+              "RelativeToolTip": "BattleGame\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:50:39.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\appsettings.json",
+              "RelativeDocumentMoniker": "BattleGame\\appsettings.json",
+              "ToolTip": "C:\\Users\\bahat\\source\\repos\\BattleGame\\BattleGame\\appsettings.json",
+              "RelativeToolTip": "BattleGame\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T05:49:05.582Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

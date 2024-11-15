@@ -1,0 +1,11 @@
+Nhấn F5 trong Visual Studio để chạy ứng dụng. Sau đó:
+
+Truy cập trang /Report/PlayerAssets để xem báo cáo tài sản của người chơi.
+Kiểm tra các API bằng cách sử dụng Postman hoặc bất kỳ công cụ nào khác để gửi yêu cầu POST đến:
+/api/player/registerplayer để thêm người chơi.
+/api/asset/createasset để thêm tài sản.
+
+
+
+
+

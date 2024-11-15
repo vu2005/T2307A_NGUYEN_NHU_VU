@@ -1,0 +1,21 @@
+@model BattleGame.Models.Asset
+
+@{
+    ViewData["Title"] = "Create Asset";
+}
+
+<h2>Create Asset</h2>
+
+<form method="post" asp-action="RegisterAsset">
+    <div class="form-group">
+        <label for="AssetName">Asset Name</label>
+        <input type="text" class="form-control" id="AssetName" name="AssetName" required />
+    </div>
+    <div class="form-group">
+        <label for="LevelRequire">Level Requirement</label>
+        <input type="number" class="form-control" id="LevelRequire" name="LevelRequire" required />
+    </div>
+    <button type="submit" class="btn btn-success mt-3">Create Asset</button>
+</form>
+
+<a href="@Url.Action("Index", "Asset")" class="btn btn-secondary mt-3">Back to Asset List</a>
